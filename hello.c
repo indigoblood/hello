@@ -6,12 +6,13 @@
  * A simple hello world program in C
  *
  */
-#include <stdlib.h>
-#include <stdio.h>
+  #include <stdio.h>
 
-int main(int argc, char **argv) {
+  int main(int argc, char **argv) {
 
-  printf("Indigo Blood & Jace Pethoud!\n");
+  printf("Indigo Blood!\n");
+  
+  printf("Computer Engineer\n");
 
   return 0;
 }
