@@ -13,6 +13,10 @@
   printf("Indigo Blood!\n");
   
   printf("Computer Engineer\n");
+  
+  printf("Jace Pethoud!\n");
+  
+  printf("Computer Science!\n");
 
   return 0;
 }
